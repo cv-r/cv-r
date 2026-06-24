@@ -1,6 +1,7 @@
-<p align="right">
-  <sup>EN</sup> · <a href="#中文版本">中文</a>
-</p>
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+
+<br>
 
 # Hi, I'm Rui Zhang 👋
 
@@ -52,9 +53,12 @@ Passionate about building high-quality web applications the AI Native way. I dee
 
 <p align="center"><em>Let's build the future, one commit at a time.</em> 🚀</p>
 
----
+</details>
 
-## 中文版本
+<details>
+<summary><b>🇨🇳 中文</b></summary>
+
+<br>
 
 # Hi, I'm 张瑞 👋
 
@@ -105,3 +109,5 @@ Passionate about building high-quality web applications the AI Native way. I dee
 ---
 
 <p align="center"><em>Let's build the future, one commit at a time.</em> 🚀</p>
+
+</details>
