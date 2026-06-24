@@ -11,6 +11,7 @@
 <p align="center">
   <a href="mailto:447256217zhangrui@gmail.com"><img src="https://img.shields.io/badge/📧_447256217zhangrui@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3730A3" /></a>
   <a href="https://github.com/cv-r"><img src="https://img.shields.io/badge/🐙_GitHub-cv_r-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+	  <a href="https://cv-r.github.io/"><img src="https://img.shields.io/badge/🌐_Blog-cv_r.github.io-6366F1?style=for-the-badge&logo=safari&logoColor=white&labelColor=3730A3" /></a>
 </p>
 
 <p align="center">
