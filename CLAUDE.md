@@ -9,8 +9,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 修改 README 注意事项
 
 - **这是公开页面**，禁止包含手机号、详细日期、年龄、薪资等个人隐私
-- **双语结构**：文档包含中英文两版，英文在上（默认），中文在下以 `## 中文版本` 分隔
-- 修改内容时需同步更新两个语言的对应部分，保持信息一致
+- **中文为主**，展示风格偏个人化，用 shields.io badges、表格、samp/blockquote 等元素增加视觉层次
 - 文件路径即 `README.md`，无其他源码
 - 风格简洁，定位为 AI 前端工程师
 

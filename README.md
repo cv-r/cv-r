@@ -1,113 +1,131 @@
-<details open>
-<summary><b>🇬🇧 English</b></summary>
+<p align="center">
+  <samp>👋 Hi there, welcome to my corner of GitHub.</samp>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rui+Zhang+%F0%9F%91%8B;AI+%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88+%F0%9F%9A%80;%E7%83%AD%E7%88%B1+AI+Native+%E5%BC%80%E5%8F%91;Let's+build+the+future" />
+</p>
 
 <br>
 
-# Hi, I'm Rui Zhang 👋
+<p align="center">
+  <a href="mailto:447256217zhangrui@gmail.com"><img src="https://img.shields.io/badge/📧_447256217zhangrui@gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3730A3" /></a>
+  <a href="https://github.com/cv-r"><img src="https://img.shields.io/badge/🐙_GitHub-cv_r-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-> AI Frontend Engineer · Nanjing, China
-
-Passionate about building high-quality web applications the AI Native way. I deeply integrate AI tools like Claude Code, Cursor, and MCP into my daily workflow — from requirements analysis and code generation to refactoring and testing — delivering quality code at higher efficiency.
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** `JavaScript` `TypeScript` `HTML5` `CSS3` `Dart`
-
-**Frameworks:** `Vue 2/3` `React` `Flutter` `Vite` `Webpack`
-
-**State & Routing:** `Pinia` `Vuex` `Redux Toolkit` `Zustand` `BLoC`
-
-**UI & Visualization:** `Ant Design` `Naive UI` `Element UI` `ECharts` `D3.js` `PixiJS`
-
-**AI & Tooling:** `Claude Code` `Cursor` `ChatGPT` `MCP` `Skills`
-
----
-
-## 🔥 Focus Areas
-
-- **AI Native Development** — Embedding AI Coding into daily R&D: coding, refactoring, code review, and documentation
-- **Enterprise Architecture** — Experienced in large-scale frontend architecture design, component-driven and configuration-driven systems
-- **Cross-Platform** — React / Vue / Flutter across PC, mobile H5, WeChat Work, and native App
-- **Team Enablement** — Driving AI Coding adoption within teams through knowledge sharing and best practices
-
----
-
-## 💼 Projects
-
-- **CHAGEE** — Core app modules (ordering, payment, coupons, gift cards) and gamified H5 marketing campaigns
-- **Li Auto** — Frontend architecture and engineering for digital dealership construction management platform
-- **Erdos Group** — Configuration-driven page system and enterprise UI component library for channel management
-- **Rare Disease AI Diagnostic Engine** — Frontend architecture and knowledge graph visualization for AI-assisted diagnosis
-- **5G Surfing Cloud Platform** — Frontend development and shared component system for telecom marketing SaaS
-
----
-
-## 📬 Contact
-
-- 📧 Email: `447256217zhangrui@gmail.com`
-- 🏙️ Location: Nanjing, China
-
----
-
-<p align="center"><em>Let's build the future, one commit at a time.</em> 🚀</p>
-
-</details>
-
-<details>
-<summary><b>🇨🇳 中文</b></summary>
+<p align="center">
+  <sub>📍 南京 &nbsp;·&nbsp; 🎯 AI 前端工程师 &nbsp;·&nbsp; 💼 8 年经验 &nbsp;·&nbsp; 🔍 目前在积极看机会</sub>
+</p>
 
 <br>
 
-# Hi, I'm 张瑞 👋
+---
 
-> AI 前端工程师 · 南京
+### 🧠 关于我
 
-热衷于用 AI Native 方式构建高质量前端应用。长期深度实践 Claude Code、Cursor、MCP 等 AI 开发工具，将 AI 融入需求分析、代码生成、重构优化到测试交付的全流程，在保证代码质量的同时大幅提升研发效率。
+<samp>
+一个把 AI 写进日常开发流程的前端工程师。我相信未来的软件开发不是「人写代码」，而是「人 + AI 协同创造」。
+</samp>
+
+><samp>长期深度使用 Claude Code、Cursor、MCP —— 从需求分析、架构设计、代码生成到重构测试，AI 已经融入我的每个研发环节。不只自己用，还在团队里推广，帮大家一起提效。</samp>
+
+><samp>写过 Vue, React, Flutter，搞过企业级架构、组件库建设、配置化页面体系。PC、H5、小程序、App 都碰过，跨端踩坑经验丰富。</samp>
+
+><samp>代码之外，喜欢琢磨怎么把工程化做得更好——规范怎么定、流程怎么优化、团队怎么协作更丝滑。相信好的工程师不只写代码，更写「可维护的系统」。</samp>
 
 ---
 
-## 🛠 技术栈
+### 🛠 工具箱
 
-**语言 & 基础:** `JavaScript` `TypeScript` `HTML5` `CSS3` `Dart`
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=fff" />
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PixiJS-E72263?style=flat-square&logo=pixiv&logoColor=fff" />
+</p>
 
-**框架 & 生态:** `Vue 2/3` `React` `Flutter` `Vite` `Webpack`
-
-**状态 & 路由:** `Pinia` `Vuex` `Redux Toolkit` `Zustand` `BLoC`
-
-**UI & 可视化:** `Ant Design` `Naive UI` `Element UI` `ECharts` `D3.js` `PixiJS`
-
-**AI & 工具:** `Claude Code` `Cursor` `ChatGPT` `MCP` `Skills`
-
----
-
-## 🔥 核心方向
-
-- **AI Native 开发** — 将 AI Coding 深度融入日常研发，构建覆盖编码、重构、Review、文档的 AI 协同工作流
-- **企业级架构** — 具备大型项目前端架构设计经验，熟悉组件化、配置化、工程化建设
-- **跨端能力** — React / Vue / Flutter 多技术栈，覆盖 PC 管理后台、移动端 H5、企业微信、App 等多端场景
-- **团队推动** — 推动 AI Coding 在团队落地，组织技术分享与规范建设
-
----
-
-## 💼 项目经历
-
-- **霸王茶姬** — 负责 App 核心业务模块（下单、支付、优惠券、礼品卡等）及 H5 游戏化运营活动开发
-- **理想汽车** — 主导线下建设数字化管理平台前端架构设计与工程化建设
-- **鄂尔多斯集团** — 参与渠道数字化管理平台建设，负责配置化页面体系与企业级 UI 组件库
-- **Rare Disease AI Diagnostic Engine** — 负责 AI 辅助诊断平台前端架构及知识图谱可视化
-- **5G 冲浪云平台** — 参与通信营销平台前端开发与公共组件体系建设
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MCP-4285F4?style=flat-square&logo=protocolsdotio&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuex&logoColor=000" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Naive_UI-18A058?style=flat-square&logo=naiveui&logoColor=fff" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=fff" />
+</p>
 
 ---
 
-## 📬 联系方式
+### 🚀 做过的事
 
-- 📧 邮箱: `447256217zhangrui@gmail.com`
-- 🏙️ 城市: 南京
+<table>
+  <tr>
+    <td width="140" valign="top"><samp><b>霸王茶姬</b></samp></td>
+    <td>App 核心业务（下单 · 支付 · 优惠券 · 礼品卡）+ 游戏化 H5 运营活动，Flutter + React</td>
+  </tr>
+  <tr>
+    <td valign="top"><samp><b>理想汽车</b></samp></td>
+    <td>线下建设数字化管理平台，主导前端架构 + 工程化体系，沉淀 50+ 业务组件</td>
+  </tr>
+  <tr>
+    <td valign="top"><samp><b>鄂尔多斯集团</b></samp></td>
+    <td>渠道数字化管理平台，配置化页面体系（开发效率 ↑60%）+ 40+ UI 组件库</td>
+  </tr>
+  <tr>
+    <td valign="top"><samp><b>罕见病 AI 诊断</b></samp></td>
+    <td>AI 辅助诊断平台前端架构 · LLM+RAG 集成 · 知识图谱可视化</td>
+  </tr>
+  <tr>
+    <td valign="top"><samp><b>5G 冲浪云平台</b></samp></td>
+    <td>通信营销 SaaS，WebSocket 实时聊天 + 运营商小程序模板配置</td>
+  </tr>
+</table>
 
 ---
 
-<p align="center"><em>Let's build the future, one commit at a time.</em> 🚀</p>
+### 🤝 为什么招我？
 
-</details>
+<p align="center">
+  <samp>AI Native 实战派，不是纸上谈兵。把 AI 真正融入研发流程，提效同时不丢质量。</samp>
+</p>
+
+<p align="center">
+  <samp>8 年实打实的前端经验，从 0 到 1 搭过架构，也填过前人留下的坑。</samp>
+</p>
+
+<p align="center">
+  <samp>不只是执行者——推动技术规范、带团队、做分享，帮大家一起变好。</samp>
+</p>
+
+---
+
+### 📬 找我聊聊？
+
+<p align="center">
+  <samp>如果你正好在找一位 AI 前端方向的伙伴，或者只是想交流技术——</samp>
+</p>
+
+<p align="center">
+  <a href="mailto:447256217zhangrui@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_给我发邮件-447256217zhangrui@gmail.com-6366F1?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=3730A3" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>📱 电话/微信：有意向邮件联系后交换 &nbsp;|&nbsp; 🏙️ 目前在南京，也看远程机会</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" />
+</p>
