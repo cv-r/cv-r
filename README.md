@@ -93,6 +93,33 @@
 
 ---
 
+### 📝 写的东西
+
+<samp>在 <a href="https://cv-r.github.io/blog">cv-r.github.io</a> 上持续输出系统化的前端 & AI 开发内容：</samp>
+
+<table>
+  <tr>
+    <td width="32">🤖</td>
+    <td width="120" valign="top"><samp><b>AI 学习路径</b></samp></td>
+    <td><samp>从 0 到 1 成为 AI Native 工程师——Claude Code · MCP · Prompt 工程 · Agent 编排</samp></td>
+    <td align="right"><a href="https://cv-r.github.io/series/ai-learn">📖 11 章 →</a></td>
+  </tr>
+  <tr>
+    <td>📗</td>
+    <td valign="top"><samp><b>Vue 3 源码</b></samp></td>
+    <td><samp>响应式 · 虚拟 DOM · Diff · 编译器——逐行读懂 Vue 3 核心</samp></td>
+    <td align="right"><a href="https://cv-r.github.io/series/vue-source">📖 12 章 →</a></td>
+  </tr>
+  <tr>
+    <td>⚛️</td>
+    <td valign="top"><samp><b>React 源码</b></samp></td>
+    <td><samp>Fiber · Hooks · Scheduler · Concurrent——深入 React 架构内核</samp></td>
+    <td align="right"><a href="https://cv-r.github.io/series/react-source">📖 13 章 →</a></td>
+  </tr>
+</table>
+
+---
+
 ### 🤝 我的工作方式
 
 <p align="center">
