@@ -1,8 +1,66 @@
+<p align="right">
+  <sup>EN</sup> · <a href="#中文版本">中文</a>
+</p>
+
 # Hi, I'm Rui Zhang 👋
 
-> AI 前端开发工程师 · 南京
+> AI Frontend Engineer · Nanjing, China
 
-热衷于用 AI Native 的方式构建高质量前端应用，长期深度实践 Claude Code、Cursor、MCP 等 AI 开发工具，将 AI 融入从需求分析到测试交付的全流程。
+Passionate about building high-quality web applications the AI Native way. I deeply integrate AI tools like Claude Code, Cursor, and MCP into my daily workflow — from requirements analysis and code generation to refactoring and testing — delivering quality code at higher efficiency.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** `JavaScript` `TypeScript` `HTML5` `CSS3` `Dart`
+
+**Frameworks:** `Vue 2/3` `React` `Flutter` `Vite` `Webpack`
+
+**State & Routing:** `Pinia` `Vuex` `Redux Toolkit` `Zustand` `BLoC`
+
+**UI & Visualization:** `Ant Design` `Naive UI` `Element UI` `ECharts` `D3.js` `PixiJS`
+
+**AI & Tooling:** `Claude Code` `Cursor` `ChatGPT` `MCP` `Skills`
+
+---
+
+## 🔥 Focus Areas
+
+- **AI Native Development** — Embedding AI Coding into daily R&D: coding, refactoring, code review, and documentation
+- **Enterprise Architecture** — Experienced in large-scale frontend architecture design, component-driven and configuration-driven systems
+- **Cross-Platform** — React / Vue / Flutter across PC, mobile H5, WeChat Work, and native App
+- **Team Enablement** — Driving AI Coding adoption within teams through knowledge sharing and best practices
+
+---
+
+## 💼 Projects
+
+- **CHAGEE** — Core app modules (ordering, payment, coupons, gift cards) and gamified H5 marketing campaigns
+- **Li Auto** — Frontend architecture and engineering for digital dealership construction management platform
+- **Erdos Group** — Configuration-driven page system and enterprise UI component library for channel management
+- **Rare Disease AI Diagnostic Engine** — Frontend architecture and knowledge graph visualization for AI-assisted diagnosis
+- **5G Surfing Cloud Platform** — Frontend development and shared component system for telecom marketing SaaS
+
+---
+
+## 📬 Contact
+
+- 📧 Email: `447256217zhangrui@gmail.com`
+- 🏙️ Location: Nanjing, China
+
+---
+
+<p align="center"><em>Let's build the future, one commit at a time.</em> 🚀</p>
+
+---
+
+## 中文版本
+
+# Hi, I'm 张瑞 👋
+
+> AI 前端工程师 · 南京
+
+热衷于用 AI Native 方式构建高质量前端应用。长期深度实践 Claude Code、Cursor、MCP 等 AI 开发工具，将 AI 融入需求分析、代码生成、重构优化到测试交付的全流程，在保证代码质量的同时大幅提升研发效率。
 
 ---
 
@@ -16,7 +74,7 @@
 
 **UI & 可视化:** `Ant Design` `Naive UI` `Element UI` `ECharts` `D3.js` `PixiJS`
 
-**AI & 工具:** `Claude Code` `Cursor` `ChatGPT` `MCP` `Skills` `Git`
+**AI & 工具:** `Claude Code` `Cursor` `ChatGPT` `MCP` `Skills`
 
 ---
 
@@ -41,9 +99,9 @@
 
 ## 📬 联系方式
 
-- 📧 Email: `447256217zhangrui@gmail.com`
+- 📧 邮箱: `447256217zhangrui@gmail.com`
 - 🏙️ 城市: 南京
 
 ---
 
-*Let's build the future, one commit at a time.* 🚀
+<p align="center"><em>Let's build the future, one commit at a time.</em> 🚀</p>
